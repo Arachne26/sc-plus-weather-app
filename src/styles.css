@@ -1,5 +1,5 @@
 body {
-  background: #b9e6f7;
+  background: #e5f4f9;
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
   font-weight: 250;
@@ -13,4 +13,23 @@ body {
   margin: 40px auto;
   padding: 30px;
   border-radius: 15px;
+}
+
+.search-form-input-box {
+  background: #e5f4f9;
+  font-size: 15px;
+  width: 80%;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 10px;
+}
+
+.search-form-submit-button {
+  background: #029bd3;
+  font-size: 15px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 5px;
 }
